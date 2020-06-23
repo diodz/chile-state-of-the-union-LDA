@@ -1,7 +1,7 @@
 # chile state of the union LDA
  This work seeks to make an LDA analysis of the state of the union speeches by Chilean presidents since 1926 to 2015. As this project is done in pursuit of the datascience one-year certificate at Chilean University UDD, most of the work, including code comments and final report, is done in spanish. The method is implemented in python in the jupyter notebook named LDA_state_of_the_union.ipynb in the scripts folder. Speeches are stored in the corpus folder. 
  
- Please see final report "An LDA application for Chilean state of the union speeches" for sources and more information.
+ Please see final report "An LDA application for Chilean state of the union speeches" in the results folder for sources and more information.
  
  All errors are the authors fault alone.
  
