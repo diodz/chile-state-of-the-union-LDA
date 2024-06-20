@@ -11,5 +11,4 @@
  
  ### Spanish abstract: 
  
- Este trabajo persigue un doble objetivo. Por un lado busca estudiar el efecto de las ides en el crecimiento economico, en linea a lo que hace Bjørnskov (2005) pero longitudinalmente, es decir, a lo largo de la historia de Chile. Por otro lado, busca medir el efecto de la evolucion de ciertos conceptos econ ´ omico/culturales en el ´
-crecimiento economico.
+ Este trabajo persigue un doble objetivo. Por un lado busca estudiar el efecto de las ides en el crecimiento economico, en linea a lo que hace Bjørnskov (2005) pero longitudinalmente, es decir, a lo largo de la historia de Chile. Por otro lado, busca medir el efecto de la evolucion de ciertos conceptos económico/culturales en el crecimiento economico.
